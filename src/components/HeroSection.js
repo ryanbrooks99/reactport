@@ -10,7 +10,7 @@ function HeroSection() {
             <h1>Welcome to my portfolio.</h1>
             <p>My name is Ryan Brooks and I am a full stack web developer from Charlotte, NC. Thank you for taking time to visit my page. </p>
             <p>Please be sure to view my portfolio and resume below.</p>
-            <img className='headshot' src='./images/ryanheadshot.png' alt='Ryan'></img>
+            <img className='headshot' src={require('./images/ryanheadshot.png')} alt='Ryan'></img>
             <div className='hero-btns'>
                 <Button className='btns' buttonStyle='btn--outline'
                 buttonSize='btn--large'>View Resume
