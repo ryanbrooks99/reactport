@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/reactport/static/css/main.7cb84327.chunk.css",
-    "main.js": "/reactport/static/js/main.b1ae5063.chunk.js",
-    "main.js.map": "/reactport/static/js/main.b1ae5063.chunk.js.map",
+    "main.css": "/reactport/static/css/main.d85a5638.chunk.css",
+    "main.js": "/reactport/static/js/main.376da4ad.chunk.js",
+    "main.js.map": "/reactport/static/js/main.376da4ad.chunk.js.map",
     "runtime-main.js": "/reactport/static/js/runtime-main.21780df4.js",
     "runtime-main.js.map": "/reactport/static/js/runtime-main.21780df4.js.map",
-    "static/js/2.965d15b7.chunk.js": "/reactport/static/js/2.965d15b7.chunk.js",
-    "static/js/2.965d15b7.chunk.js.map": "/reactport/static/js/2.965d15b7.chunk.js.map",
+    "static/js/2.4da40117.chunk.js": "/reactport/static/js/2.4da40117.chunk.js",
+    "static/js/2.4da40117.chunk.js.map": "/reactport/static/js/2.4da40117.chunk.js.map",
     "index.html": "/reactport/index.html",
-    "precache-manifest.46ba26a5cced0238bcb1bdeaac56e55a.js": "/reactport/precache-manifest.46ba26a5cced0238bcb1bdeaac56e55a.js",
+    "precache-manifest.bbba029016ec6888f74429db224be5f1.js": "/reactport/precache-manifest.bbba029016ec6888f74429db224be5f1.js",
     "service-worker.js": "/reactport/service-worker.js",
-    "static/css/main.7cb84327.chunk.css.map": "/reactport/static/css/main.7cb84327.chunk.css.map",
-    "static/js/2.965d15b7.chunk.js.LICENSE.txt": "/reactport/static/js/2.965d15b7.chunk.js.LICENSE.txt"
+    "static/css/main.d85a5638.chunk.css.map": "/reactport/static/css/main.d85a5638.chunk.css.map",
+    "static/js/2.4da40117.chunk.js.LICENSE.txt": "/reactport/static/js/2.4da40117.chunk.js.LICENSE.txt",
+    "static/media/Ryan_L_Brooks_Resume.pdf": "/reactport/static/media/Ryan_L_Brooks_Resume.c0b8900d.pdf",
+    "static/media/HeroSection.css": "/reactport/static/media/beach4.2e801010.jpeg",
+    "static/media/cocktellme.png": "/reactport/static/media/cocktellme.1fd90940.png",
+    "static/media/equippe.png": "/reactport/static/media/equippe.a970c036.png",
+    "static/media/musiquery.png": "/reactport/static/media/musiquery.f9ea1bfd.png",
+    "static/media/ryanheadshot.png": "/reactport/static/media/ryanheadshot.85bdb450.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21780df4.js",
-    "static/js/2.965d15b7.chunk.js",
-    "static/css/main.7cb84327.chunk.css",
-    "static/js/main.b1ae5063.chunk.js"
+    "static/js/2.4da40117.chunk.js",
+    "static/css/main.d85a5638.chunk.css",
+    "static/js/main.376da4ad.chunk.js"
   ]
 }
