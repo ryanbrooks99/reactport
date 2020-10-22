@@ -15,7 +15,7 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/#navigate' component={Portfolio} />
-        <Route path={require('./images/Ryan_L_Brooks_Resume.pdf')} component={Resume} />
+        <Route path={require('../src/images/Ryan_L_Brooks_Resume.pdf')} component={Resume} />
       </Switch>
     </Router>
     </>

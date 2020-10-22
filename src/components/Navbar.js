@@ -51,7 +51,7 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to={require('./images/Ryan_L_Brooks_Resume.pdf')} target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
+                        <Link to={require('../images/Ryan_L_Brooks_Resume.pdf')} target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
                             View Resume
                         </Link>
                     </li>
