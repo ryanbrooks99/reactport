@@ -5,7 +5,7 @@ import './HeroSection.css';
 
 function HeroSection() {
     return (
-        <div className='hero-container'>
+        <div id="top" className='hero-container'>
             <video src={require('../videos/video-1.mp4')} autoPlay loop muted />
             <h1>Welcome to my portfolio.</h1>
             <p>My name is Ryan Brooks and I am a full stack web developer from Charlotte, NC. Thank you for taking time to visit my page. </p>

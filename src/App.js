@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/' exact component={Home} />
+        <Route exact path='/' exact component={Home} />
         <Route path='/#navigate' component={Portfolio} />
         <Route path={require('../src/images/Ryan_L_Brooks_Resume.pdf')} component={Resume} />
       </Switch>
