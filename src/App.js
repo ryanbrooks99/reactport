@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../src/components/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import Home from '../src/components/pages/Home'
 import Portfolio from '../src/components/pages/Portfolio'
@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path='/' exact component={Home} />
+        <Route exact path='/' component={Home} />
         <Route path='/#navigate' component={Portfolio} />
         <Route path={require('../src/images/Ryan_L_Brooks_Resume.pdf')} component={Resume} />
       </Switch>
