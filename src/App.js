@@ -7,6 +7,7 @@ import Portfolio from '../src/components/pages/Portfolio'
 import Resume from './components/pages/Resume'
 
 
+
 function App() {
   return (
     <>
@@ -15,7 +16,7 @@ function App() {
       <Switch>
         <Route exact path='/' component={Home} />
         <Route path='/#navigate' component={Portfolio} />
-        <Route path={require('../src/images/Ryan_L_Brooks_Resume.pdf')} component={Resume} />
+        <Route path='/resume' component={Resume} />
       </Switch>
     </Router>
     </>

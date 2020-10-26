@@ -6,6 +6,7 @@ import { HashLink as Link} from 'react-router-hash-link';
 
 
 
+
 function Navbar() {
     const [click, setClick] = useState(false);
     const [button, setButton] = useState(true);
@@ -51,9 +52,9 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to={require('../images/Ryan_L_Brooks_Resume.pdf')} target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
+                        <a href="https://drive.google.com/file/d/18cLH74oIpPBVZfzL8Kq8_AxByRRay-pf/view?usp=sharing" target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
                             View Resume
-                        </Link>
+                        </a>
                     </li>
                     </ul>
                     {button && <Button buttonStyle='btn--outline'>View Resume</Button>}
