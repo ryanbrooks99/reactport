@@ -52,7 +52,7 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <a href="https://drive.google.com/file/d/18cLH74oIpPBVZfzL8Kq8_AxByRRay-pf/view?usp=sharing" target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
+                        <a href="https://drive.google.com/file/d/1TAlGp2jwh7mvgQr-BuEPBgXKHJWtC5xq/view?usp=sharing" target='_blank' className='nav-links-mobile' onClick={closeMobileMenu}>
                             View Resume
                         </a>
                     </li>
